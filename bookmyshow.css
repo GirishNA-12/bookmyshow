@@ -1,0 +1,120 @@
+#nav1 {
+    width: 100%;
+    height: 70px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#nav2 {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(224, 219, 219);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    word-spacing: 20px;
+    text-indent: 80px;
+}
+
+#c1 {
+
+    width: 200px;
+    height: 40px;
+    background-image: url("https://cdn.prod.website-files.com/600ee75084e3fe0e5731624c/65b6384089ec9e265952391f_bookmyshow-logo-vector-removebg-preview%20(1).png");
+    background-repeat: no-repeat;
+    background-size: 200px 40px;
+
+    /* background-color: blue; */
+}
+
+#c2 {
+    height: 40px;
+    width: 400px;
+
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+input {
+    width: 300px;
+}
+
+#c3 {
+    height: 40px;
+    width: 400px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#btn1 {
+    background-color: red;
+    color: white
+}
+
+#c5 {
+    position: relative;
+    right: 100px;
+}
+
+#nav3 {
+    width: 100%;
+    height: 500px;
+    background-color: rgb(224, 219, 219);
+    border-top: 2px solid white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#con1 {
+    width: 200px;
+    height: 350px;
+    background-color: black;
+    background-image: url("https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC42LzEwICA2Ni44SyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00431346-wwjzwyrhrp-portrait.jpg");
+    background-repeat: no-repeat;
+    background-size: 200px 350px;
+}
+
+#con2 {
+    width: 200px;
+    height: 350px;
+    background-color: black;
+    background-image: url("https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@like_202006280402.png,lx-24,ly-617,w-29,l-end:l-text,ie-NTlLIExpa2Vz,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00439158-bbvdaxfvfc-portrait.jpg");
+    background-repeat: no-repeat;
+    background-size: 200px 350px;
+
+}
+
+#con3 {
+    width: 200px;
+    height: 350px;
+    background-color: black;
+    background-image: url("https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OC40LzEwICAxOS42SyBWb3Rlcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00440491-jbrexddckx-portrait.jpg");
+    background-repeat: no-repeat;
+    background-size: 200px 350px;
+}
+
+#con4 {
+    width: 200px;
+    height: 350px;
+    background-color: black;
+    background-image: url("https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-OS8xMCAgMjAuNEsgVm90ZXM%3D,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00416952-ldjrtgmkrz-portrait.jpg");
+    background-repeat: no-repeat;
+    background-size: 200px 350px;
+}
+
+#con5 {
+    width: 200px;
+    height: 350px;
+    background-color: black;
+    background-image: url("https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-NS4xLzEwICA0LjRLIFZvdGVz,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00368453-tqfbtctdhn-portrait.jpg");
+    background-repeat: no-repeat;
+    background-size: 200px 350px;
+}
