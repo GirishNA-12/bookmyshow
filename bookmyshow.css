@@ -41,7 +41,8 @@
 }
 
 input {
-    width: 300px;
+    width: 400px;
+    height: 25px
 }
 
 #c3 {
@@ -55,7 +56,9 @@ input {
 
 #btn1 {
     background-color: red;
-    color: white
+    color: white;
+    width:80px;
+    height: 30px;
 }
 
 #c5 {
@@ -117,4 +120,14 @@ input {
     background-image: url("https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-image,i-discovery-catalog@@icons@@star-icon-202203010609.png,lx-24,ly-615,w-29,l-end:l-text,ie-NS4xLzEwICA0LjRLIFZvdGVz,fs-29,co-FFFFFF,ly-612,lx-70,pa-8_0_0_0,l-end/et00368453-tqfbtctdhn-portrait.jpg");
     background-repeat: no-repeat;
     background-size: 200px 350px;
+}
+
+#bahu {
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    background-image: url("https://assets-in-gm.bmscdn.com/promotions/cms/creatives/1744781040696_16thaprkumarsanuconcertdesktopcarousel.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 300px;
+    border-radius: 30px;
 }
